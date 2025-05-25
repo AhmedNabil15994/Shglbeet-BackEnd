@@ -1,3 +1,3 @@
 ## About Shgl Beet Project
 
-E-commerce Project
+Multi Vendors E-commerce Project
